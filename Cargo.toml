@@ -2,6 +2,7 @@
 name = "file_recipe"
 version = "0.1.1"
 edition = "2021"
+rust-version = "1.56"
 license = "MIT OR Apache-2.0"
 authors = ["James Hunt"]
 repository = "https://github.com/jameshuntt/file_recipe"
